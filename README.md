@@ -7,3 +7,4 @@ learning on Codecademy.
 - Sal's Shipping — Python control flow and pricing logic
 - Gradebook — Python lists and data organization
 - Len's Slice - Python lists, sorting, and slicing
+- Carly's Clippers — Python loops and data analysis
