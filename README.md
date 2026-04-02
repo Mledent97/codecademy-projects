@@ -9,3 +9,4 @@ learning on Codecademy.
 - Len's Slice - Python lists, sorting, and slicing
 - Carly's Clippers — Python loops and data analysis
 - Getting Ready for Physics Class — Python functions
+- Thread Shed — Python strings and data cleaning
