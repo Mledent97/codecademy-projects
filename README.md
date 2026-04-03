@@ -10,3 +10,5 @@ learning on Codecademy.
 - Carly's Clippers — Python loops and data analysis
 - Getting Ready for Physics Class — Python functions
 - Thread Shed — Python strings and data cleaning
+- Time Traveler's Toolkit — Python modules, datetime, 
+decimal, and random
