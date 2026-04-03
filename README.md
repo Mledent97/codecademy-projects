@@ -12,3 +12,4 @@ learning on Codecademy.
 - Thread Shed — Python strings and data cleaning
 - Time Traveler's Toolkit — Python modules, datetime, 
 decimal, and random
+- Scrabble — Python dictionaries and word scoring
