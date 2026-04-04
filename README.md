@@ -13,3 +13,4 @@ learning on Codecademy.
 - Time Traveler's Toolkit — Python modules, datetime, 
 decimal, and random
 - Scrabble — Python dictionaries and word scoring
+- Hacking The Fender — Python file handling, CSV and JSON
