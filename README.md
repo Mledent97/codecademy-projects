@@ -14,3 +14,4 @@ learning on Codecademy.
 decimal, and random
 - Scrabble — Python dictionaries and word scoring
 - Hacking The Fender — Python file handling, CSV and JSON
+- Basta Fazoolin' — Python classes and object oriented programming
